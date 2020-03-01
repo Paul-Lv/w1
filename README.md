@@ -1,1 +1,1 @@
-new learning project
+new learning project. This is cool
